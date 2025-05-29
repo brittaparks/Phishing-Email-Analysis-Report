@@ -72,7 +72,7 @@ I checked the IP (66.181.34.218) on [Talos Intelligence](https://talosintelligen
 
 <img width="1414" alt="image" src="https://github.com/user-attachments/assets/bd41f657-053b-4bca-8545-b4b8cb78b90c">
 
-I also checked the other IPs and urls contained in the email on VirusTotal and Talos, but they were unremarkable.
+I also checked the other IPs and urls contained in the email on VirusTotal and Talos. `http://fzerfgzevdfs.churchaeologic.nl/` was based in the Netherlands, has a spam association on VirusTotal and a Neutral reputation on Talos.  Others IPs and urls were unremarkable.
 
 ### SPF and DKIM Checks
 
