@@ -132,6 +132,8 @@ These pages might be harmless unsubscribe forms, but they can also serve as:
 Using a VM, I captured HAR (HTTP Archive) files of the traffic. Although there was a lot of data, I noticed several POST requests on the first Google Cloud Storage link. Some POSTs were to YouTube (normal), but others targeted `vidalytics.com`, a third-party video tracker often used to collect user interaction data.
 
 <img width="1414" alt="image" src="https://github.com/user-attachments/assets/e52ebdb5-dab1-44b7-9ac2-93b52e3bd09b">
+<img width="1414" alt="image" src="https://github.com/user-attachments/assets/6c6fa003-06bb-4e32-9016-c2f1373d4857">
+
 
 
 While POST requests were not seen on Any.Run, this could be due to:
